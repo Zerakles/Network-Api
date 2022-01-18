@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="007738b6-8d5c-4e94-bd15-b7cde80174f4" name="Changes" comment="Coin Functions&#10;added Coins.java&#10;added NetworkAPI.coinManager =&gt; Coins.activateCoins&#10;added Coins.activateCoins&#10;added Coins.addCustomCoins&#10;added Coins.addWin&#10;added Coins.addLose&#10;added Coins.removeCoins&#10;added Coins.checkPlayerExists">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/zerakles/permission/Permission.java" afterDir="false" />
+    <list default="true" id="007738b6-8d5c-4e94-bd15-b7cde80174f4" name="Changes" comment="Permissions started&#10;added Permission.java">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642508005653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Permissions started&#10;added Permission.java">
+      <created>1642510737599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642510737599</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added Config.java&#10;added ConfigData.java&#10;load NetworkAPI.configData from Config.loadConfig" />
     <MESSAGE value="Coin Functions&#10;added Coins.java&#10;added NetworkAPI.coinManager =&gt; Coins.activateCoins&#10;added Coins.activateCoins&#10;added Coins.addCustomCoins&#10;added Coins.addWin&#10;added Coins.addLose&#10;added Coins.removeCoins&#10;added Coins.checkPlayerExists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coin Functions&#10;added Coins.java&#10;added NetworkAPI.coinManager =&gt; Coins.activateCoins&#10;added Coins.activateCoins&#10;added Coins.addCustomCoins&#10;added Coins.addWin&#10;added Coins.addLose&#10;added Coins.removeCoins&#10;added Coins.checkPlayerExists" />
+    <MESSAGE value="Permissions started&#10;added Permission.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Permissions started&#10;added Permission.java" />
   </component>
 </project>
