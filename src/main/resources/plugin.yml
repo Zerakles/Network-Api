@@ -1,0 +1,6 @@
+name: Network-API
+author: Zerakles
+version: 1.0
+api-version: 1.8
+main: de.zerakles.main.NetworkAPI
+commands:
